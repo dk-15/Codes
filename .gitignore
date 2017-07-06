@@ -1,0 +1,8 @@
+c++/
+matlab/
+coursera/
+python/
+*.exe
+*.out
+*.h
+*.txt
